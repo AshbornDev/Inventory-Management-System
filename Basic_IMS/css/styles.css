@@ -1,4 +1,35 @@
-.loginontainer {
-    background: url('/Basic_IMS/Images/bg.jpg') no-repeat center center fixed;
+body{
+    background: url('../Images/bg1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
+div.loginHeader{
+    text-align: center;
+    color: rgb(147, 204, 121);
+
+}
+.loginHeader h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 90px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+.loginHeader h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: rgb(183, 226, 194);
+    border-bottom: 5px solid rgb(216, 231, 223);
+    margin: 0px;
+    
+}
+.loginHeader p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(183, 226, 194);
+    border-bottom: 5px solid rgb(216, 231, 223);
+    margin: 0px;
 }
