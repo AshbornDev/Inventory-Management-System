@@ -9,6 +9,7 @@ body#loginBody {
     align-items: center;
     height: 100vh;
     margin: 0;
+    color: #9ae2a1;
 }
 
 div.loginHeader{
